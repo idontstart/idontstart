@@ -1,4 +1,8 @@
-### Hi there 👋
+### **Howdy** 🤠
+
+Student and multi-sport athlete at Dobyns-Bennett High School.
+
+### **Roll Tribe!**
 
 <!--
 **idontstart/idontstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

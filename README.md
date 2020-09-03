@@ -1,5 +1,5 @@
  <div align=”center”> Howdy! 🤠</div>
- <div align=”center”> Multi-Athlete student from Dobyns-Bennett High School.</div>
+ <div align=”center”> Multi-Sport student athlete at Dobyns-Bennett High School.</div>
 <!--
 **idontstart/idontstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

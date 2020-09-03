@@ -1,8 +1,8 @@
-### **Howdy** 🤠
+###                                                             **Howdy** 🤠
 
-Student and multi-sport athlete at Dobyns-Bennett High School.
+                                          Student and multi-sport athlete at Dobyns-Bennett High School.
 
-### **Roll Tribe!**
+###                                                          **Roll Tribe!**
 
 <!--
 **idontstart/idontstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
